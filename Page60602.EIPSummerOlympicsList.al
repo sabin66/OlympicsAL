@@ -3,7 +3,7 @@ page 60602 "Summer Olympics Page"
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
-    SourceTable = "Winter Olympics";
+    SourceTable = "Summer Olympics";
 
     layout
     {
